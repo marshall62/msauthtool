@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="msauthtool:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7b1365d-84a5-418c-bceb-eb361c899b2f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/db/MockDb.java" afterPath="$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/db/MockDb.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/model/Problem.java" afterPath="$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/model/Problem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/gui/ProblemEditor.form" afterPath="$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/gui/ProblemEditor.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/gui/ProblemEditor.java" afterPath="$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/gui/ProblemEditor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/db/ProblemMgr.java" afterPath="$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/db/ProblemMgr.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="msauthtool.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1417547070308" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/.idea/workspace.xml" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1404355121921" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/intervSel2/TopicSwitchIS.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386606816307" ignored="false" />
+    <file path="/TopicSwitchIS.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386007546747" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/intervSel2/TopicSwitchAskIS.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386617439846" ignored="false" />
+    <file path="/TopicSwitchAskIS.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386617438224" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/pedModel2/ExtActTopicSwitchHintHighlightPM.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386797805758" ignored="false" />
+    <file path="/ExtActTopicSwitchHintHighlightPM.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386797803151" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/probSel/BaseTopicProblemSelector.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389910319285" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/pedModel2/BasePedagogicalModel.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1391011608489" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/probSel/TopicLoader.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386606825857" ignored="false" />
+    <file path="/BaseTopicProblemSelector.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389910315960" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/smgr/SessionState.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389910923375" ignored="false" />
+    <file path="/SessionState.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389910668097" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/util/WoProps.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386168643936" ignored="false" />
+    <file path="/WoProps.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386167688489" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/smgr/StudentState.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389912444035" ignored="false" />
+    <file path="/StudentState.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389912015591" ignored="false" />
+    <file path="/TopicLoader.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386606287923" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/interventions/TopicSwitchIntervention.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386613536950" ignored="false" />
+    <file path="/TopicSwitchIntervention.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386613009929" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/intervSel2/HighlightHintButtonIS.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386178070090" ignored="false" />
+    <file path="/HighlightHintButtonIS.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386178068801" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/interventions/TopicSwitchAskIntervention.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386612585735" ignored="false" />
+    <file path="/TopicSwitchAskIntervention.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386612522111" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/resources/js/tutorhut.js" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1391012778765" ignored="false" />
+    <file path="/tutorhut.js" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1416517497407" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/resources/js/tutorintervention.js" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386619448875" ignored="false" />
+    <file path="/tutorintervention.js" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386616505709" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/resources/mathspring.jsp" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386803163301" ignored="false" />
+    <file path="/mathspring.jsp" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1414781103316" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/resources/js/tutorutils.js" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386617100043" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/resources/js/intervdialogs.js" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386257279560" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/resources/js/intervhandlers.js" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386617292910" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/event/tutorhut/TeachTopicEvent.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389732697993" ignored="false" />
+    <file path="/TeachTopicEvent.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389732695425" ignored="false" />
+    <file path="/fragment.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1416596745543" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/servletFramework/src/ckc/servlet/servbase/BaseServlet.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386276499168" ignored="false" />
+    <file path="/BaseServlet.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386276441126" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/intervSel2/NextProblemListCombinerIS.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386349137176" ignored="false" />
+    <file path="/NextProblemListCombinerIS.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386349126404" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/intervSel2/InterventionSelector.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386349211717" ignored="false" />
+    <file path="/InterventionSelector.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386348857723" ignored="false" />
+    <file path="/tutorutils.js" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386353611736" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/resources/js/tutorAnswer.js" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386882903738" ignored="false" />
+    <file path="/tutorAnswer.js" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1414782044277" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/interventions/HighlightHintButtonIntervention.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386876532536" ignored="false" />
+    <file path="/HighlightHintButtonIntervention.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386800679957" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/interventions/AttemptIntervention.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386611797223" ignored="false" />
+    <file path="/AttemptIntervention.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386611784303" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/response/AttemptResponse.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386877534751" ignored="false" />
+    <file path="/AttemptResponse.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386877533858" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/interventions/RapidAttemptIntervention.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386616236564" ignored="false" />
+    <file path="/RapidAttemptIntervention.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386614511408" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/interventions/BaseIntervention.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386878547293" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/interventions/InputResponseIntervention.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386881149262" ignored="false" />
+    <file path="/InputResponseIntervention.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1416512269112" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/interventions/InformationIntervention.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386876679973" ignored="false" />
+    <file path="/InformationIntervention.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386876679973" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/interventions/SimpleBaseIntervention.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386785925514" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/intervSel2/GuessingAskAffectIS.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386865350759" ignored="false" />
+    <file path="/GuessingAskAffectIS.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386618321570" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/intervSel2/AttemptListCombinerIS.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386615932266" ignored="false" />
+    <file path="/AttemptListCombinerIS.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386615906745" ignored="false" />
+    <file path="/intervhandlers.js" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386616455772" ignored="false" />
+    <file path="/BasePedagogicalModel.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1391011247149" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/smgr/LessonState.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389640990148" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/smgr/ProblemState.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389907855154" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/smgr/WorkspaceState.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389911752488" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/smgr/UnclassifiedState.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386623796358" ignored="false" />
+    <file path="/UnclassifiedState.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386622189175" ignored="false" />
+    <file path="/WorkspaceState.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389908916408" ignored="false" />
+    <file path="/LessonState.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389640962230" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutormeta/Activity.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386877551640" ignored="false" />
+    <file path="/Activity.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386877551640" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/response/Response.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386881476137" ignored="false" />
+    <file path="/Response.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386881474209" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/response/ProblemResponse.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389731027999" ignored="false" />
+    <file path="/ProblemResponse.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389731009721" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/response/HintResponse.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386875820518" ignored="false" />
+    <file path="/HintResponse.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386875779974" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutormeta/Intervention.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386783776662" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/response/ClickCharacterResponse.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386849804025" ignored="false" />
+    <file path="/ClickCharacterResponse.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386784063426" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/pedModel/PedagogicalModel.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389195626210" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/content/ExternalActivity.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386876441037" ignored="false" />
+    <file path="/ExternalActivity.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386876437909" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/content/Problem.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386878283359" ignored="false" />
+    <file path="/Problem.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1391011817170" ignored="false" />
+    <file path="/HintSequenceResponse.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386875987813" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/response/HintSequenceResponse.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386875989028" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/response/InterventionResponse.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386880923189" ignored="false" />
+    <file path="/InterventionResponse.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386880920564" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/interventions/InterventionWithCharacter.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386875628337" ignored="false" />
+    <file path="/InterventionWithCharacter.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386785387487" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutormeta/LearningCompanion.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386875628337" ignored="false" />
+    <file path="/LearningCompanion.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386854145912" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/response/LogoutResponse.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386785461458" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/response/ReinforcementResponse.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386785604238" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/interventions/SelectHintSpecs.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386878319888" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/interventions/ShowProgressPageSpecs.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386878358146" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/interventions/SelectProblemSpecs.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386878343873" ignored="false" />
+    <file path="/Video.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386877915691" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/content/Video.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386877922961" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/interventions/CharacterResponseToAttempt.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386785809388" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/interventions/HorizBarGraphMotivationalResponse.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386878483151" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/interventions/VertBarGraphMotivationalResponse.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386785937273" ignored="false" />
+    <file path="/TutorHutEventHandler.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386880693437" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/handler/TutorHutEventHandler.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386880735519" ignored="false" />
+    <file path="/StudentActionHandler.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389200917984" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/handler/StudentActionHandler.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389200921117" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/content/Hint.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386878393483" ignored="false" />
+    <file path="/Hint.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386878392498" ignored="false" />
+    <file path="/BaseIntervention.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386878546919" ignored="false" />
+    <file path="/SelectHintSpecs.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386878319888" ignored="false" />
+    <file path="/SelectProblemSpecs.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386800552465" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/agent/EmotionalLC.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386867624834" ignored="false" />
+    <file path="/EmotionalLC.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386854191969" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/smgr/SessionManager.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389901864873" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/agent/BasicEmotionalLC.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386853592706" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/agent/AttributionsOnlyLC.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386853647861" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/agent/BaseLearningCompanion.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386854248884" ignored="false" />
+    <file path="/BaseLearningCompanion.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386853883799" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/agent/FemaleLC.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386854198158" ignored="false" />
+    <file path="/FemaleLC.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386854197814" ignored="false" />
+    <file path="/MaleLC.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386854205822" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/agent/MaleLC.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386854206144" ignored="false" />
+    <file path="/HorizBarGraphMotivationalResponse.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386878470462" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutormeta/OldPedagogicalModel.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386879307783" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/AdventurePedagogicalModel.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389200991696" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/PrePostPedagogicalModel.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389201006793" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/TransactionLogger.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389197591016" ignored="false" />
+    <file path="/TransactionLogger.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389196281199" ignored="false" />
+    <file path="/OldPedagogicalModel.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386879271858" ignored="false" />
+    <file path="/AdventurePedagogicalModel.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389200988403" ignored="false" />
+    <file path="/PrePostPedagogicalModel.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389201003971" ignored="false" />
+    <file path="$PROJECT_DIR$/../mscontent/LearningCompanion/Jane/correctEffort1.html" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386883213335" ignored="false" />
+    <file path="$PROJECT_DIR$/../mscontent/LearningCompanion/Jane/enter.html" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386883213335" ignored="false" />
+    <file path="$PROJECT_DIR$/../mscontent/LearningCompanion/Jane/correct3.html" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386883213335" ignored="false" />
+    <file path="$PROJECT_DIR$/../mscontent/LearningCompanion/Jane/correctEffort2.html" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386883213335" ignored="false" />
+    <file path="$PROJECT_DIR$/../mscontent/LearningCompanion/Jane/confidence high.html" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386883213335" ignored="false" />
+    <file path="$PROJECT_DIR$/../mscontent/LearningCompanion/Jane/celebrate.html" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386883213335" ignored="false" />
+    <file path="$PROJECT_DIR$/../mscontent/LearningCompanion/Jane/effortAttribution1.html" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386883213335" ignored="false" />
+    <file path="$PROJECT_DIR$/../mscontent/LearningCompanion/Jane/correct4.html" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386883213335" ignored="false" />
+    <file path="$PROJECT_DIR$/../mscontent/LearningCompanion/Jane/excited low.html" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386883213335" ignored="false" />
+    <file path="$PROJECT_DIR$/../mscontent/LearningCompanion/Jane/frustration low.html" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386883213335" ignored="false" />
+    <file path="$PROJECT_DIR$/../mscontent/LearningCompanion/Jane/correct2.html" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386883213335" ignored="false" />
+    <file path="$PROJECT_DIR$/../mscontent/LearningCompanion/Jane/exit.html" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386883213335" ignored="false" />
+    <file path="$PROJECT_DIR$/../mscontent/LearningCompanion/Jane/effortAttribution3.html" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386883213335" ignored="false" />
+    <file path="$PROJECT_DIR$/../mscontent/LearningCompanion/Jane/generalAttribution1.html" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386883213335" ignored="false" />
+    <file path="$PROJECT_DIR$/../mscontent/LearningCompanion/Jane/confidence low.html" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386883213335" ignored="false" />
+    <file path="$PROJECT_DIR$/../mscontent/LearningCompanion/Jane/correctNoEffort2.html" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386883213335" ignored="false" />
+    <file path="$PROJECT_DIR$/../mscontent/LearningCompanion/Jane/frustration high.html" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386883213335" ignored="false" />
+    <file path="$PROJECT_DIR$/../mscontent/LearningCompanion/Jane/correct1.html" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386883213335" ignored="false" />
+    <file path="$PROJECT_DIR$/../mscontent/LearningCompanion/Jane/excited high.html" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1386883213335" ignored="false" />
+    <file path="$PROJECT_DIR$/../mscontent/Problems/problem_089/problem_089.fla" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389048074810" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/web/WEB-INF/rose/web.xml" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389109457967" ignored="false" />
+    <file path="/web.xml" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389109457967" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/resources/pedagogies.xml" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1390939080984" ignored="false" />
+    <file path="/ProblemState.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389907586746" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/smgr/StudentState2.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389195087484" ignored="false" />
+    <file path="/StudentState2.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389195513628" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/smgr/StudentStateOld.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389195275059" ignored="false" />
+    <file path="/PedagogicalModel.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389200629281" ignored="false" />
+    <file path="/a.dummy" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1416517054415" ignored="false" />
+    <file path="/SessionManager.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389901864374" ignored="false" />
+    <file path="/TutorLogger.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389197355257" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/log/TutorLogger.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389197395740" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/hintSel/BaseHintSelector.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389197422948" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/hintSel/PercentageHintSelector.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389197433364" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/hintSel/RandomHintSelector.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389199268139" ignored="false" />
+    <file path="/StudentProblemHistory.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389893267143" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/studmod/StudentProblemHistory.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389893443118" ignored="false" />
+    <file path="/RandomHintSelector.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389197475606" ignored="false" />
+    <file path="/EngagementTimeAdaptiveInterventionSelector.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389201085452" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/intervSel/EngagementTimeAdaptiveInterventionSelector.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389201089487" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/handler/MPPTutorHandler.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389198849175" ignored="false" />
+    <file path="/MPPTutorHandler.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389198828633" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/intervSel/CelebrateTopicMasteryIS.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389198859711" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/studmod/BaseStudentModel.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389728348932" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/studmod/BaseStudentModelOld.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389729149293" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/intervSel/FixedTimeRandomIS.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389201192217" ignored="false" />
+    <file path="/FixedTimeRandomIS.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389200530466" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/pedModel/LearningCompanionPM.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389201313922" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/intervSel/FixedTimeRandomEmotionIS.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389201162056" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/pedModel2/PedagogicalModel.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389201471305" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/intervSel/EngagementTimeRandomInterventionSelector.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389201143969" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/woserver/TutorBrainHandler.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1391006075854" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/intervSel/FixedTimeConstantInterventionSelector.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389201154028" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/hintSel/StrategicHintSelector.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389201023251" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/pedModel/CommonPedagogicalModel.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389201279270" ignored="false" />
+    <file path="/StrategicHintSelector.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389201020067" ignored="false" />
+    <file path="/EngagementTimeRandomInterventionSelector.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389201138616" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/content/CCCluster.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389209698230" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/content/CCStandard.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389209674465" ignored="false" />
+    <file path="/CCStandard.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389209674465" ignored="false" />
+    <file path="/CCCluster.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389209635614" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/db/DbSession.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389901752728" ignored="false" />
+    <file path="/DbSession.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389901739994" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/util/State.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389213926311" ignored="false" />
+    <file path="/State.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389213825190" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/db/DbStudentProblemHistory.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1391007078417" ignored="false" />
+    <file path="/DbStudentProblemHistory.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1391007010656" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/db/DbUser.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1391006769993" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/woreports/StudentStatusEmail.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389643325270" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/servertest/ServerTestMgr.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389643325270" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/woreports/ClassTopicLevelsReport.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389643325270" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/studmod/StudentProblemData.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389644548545" ignored="false" />
+    <file path="/StudentProblemData.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389644454503" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/woserver/WoTutorServlet.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389646741388" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/login/Login4.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389722405976" ignored="false" />
+    <file path="/Login4.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389721929821" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/login/LandingPage.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389729674265" ignored="false" />
+    <file path="/LandingPage.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389722825565" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/handler/MyProgressHandler.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389911474691" ignored="false" />
+    <file path="/MyProgressHandler.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389728389620" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/cache/ProblemMgr.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1391011963415" ignored="false" />
+    <file path="/ProblemMgr.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1391010006100" ignored="false" />
+    <file path="/BaseStudentModel.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1417468924427" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutormeta/StudentModel.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389728137738" ignored="false" />
+    <file path="/StudentModel.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389728137738" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/resources/Dashboard.jsp" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389729850211" ignored="false" />
+    <file path="/Dashboard.jsp" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389729109007" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/probSel/SingleTopicProblemSelector.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389910462160" ignored="false" />
+    <file path="/ProblemEditor.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1391010116999" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/pedModel/BasePedagogicalModel.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389910391790" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/probSel/ManyTopicsProblemSelector.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389737067626" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/studmod/AffectStudentModel.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389906117550" ignored="false" />
+    <file path="/AffectStudentModel.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389904779918" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/probSel/AdaptiveProblemGroupProblemSelector.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389904892215" ignored="false" />
+    <file path="/AdaptiveProblemGroupProblemSelector.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389904891434" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/mltutor/MLProblemSelector.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389905493360" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/smgr/PrePostState.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389910980292" ignored="false" />
+    <file path="/PrePostState.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389908558836" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/woreports/PerStudLearningHutActivityReport.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389908176639" ignored="false" />
+    <file path="/PerStudLearningHutActivityReport.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389908166830" ignored="false" />
+    <file path="/DbUser.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1391006769993" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/woreports/PipQuery.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389908697985" ignored="false" />
+    <file path="/PipQuery.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389908657297" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/woreports/ReportProblemAndEmotions.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389909808806" ignored="false" />
+    <file path="/PerStudPrePostReport.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389909684213" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/woreports/PerStudPrePostReport.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389909726128" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/woreports/ReportCollaborativeLearning.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389909808806" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/util/StudStateClean.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389912507219" ignored="false" />
+    <file path="/StudStateClean.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1389912488270" ignored="false" />
+    <file path="/test.txt" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1390862258750" ignored="false" />
+    <file path="$PROJECT_DIR$/../mscontent/Problems/problem_001/test.txt" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1390862520231" ignored="false" />
+    <file path="/MockDb.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1390863774288" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/assistments/AssistmentsHandler.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1391007752671" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/assistments/ProblemData.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1391005740013" ignored="false" />
+    <file path="/ProblemData.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1391005716388" ignored="false" />
+    <file path="/AssistmentsHandler.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1416598005156" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/probSel/PedagogicalModelParameters.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1390939039315" ignored="false" />
+    <file path="/PedagogicalModelParameters.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1390938997333" ignored="false" />
+    <file path="/Settings.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1416939314388" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/tutor/Settings.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1390939235029" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/event/tutorhut/GetProblemDataEvent.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1391006135609" ignored="false" />
+    <file path="/GetProblemDataEvent.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1391005925706" ignored="false" />
+    <file path="/TutorBrainHandler.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1391006075854" ignored="false" />
+    <file path="/DbAssistmentsUsers.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1416597856707" ignored="false" />
+    <file path="$PROJECT_DIR$/../mathspring/woServer/src/edu/umass/ckc/wo/db/DbAssistmentsUsers.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1391006821945" ignored="false" />
+    <file path="U:/mathspring/.idea/workspace.xml" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1414783483777" ignored="false" />
+    <file path="U:/mathspring/woServer/resources/mathspring/mscontent/html5Probs/js/problemUtils.js" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1414783495642" ignored="false" />
+    <file path="/problemUtils.js" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1414783182993" ignored="false" />
+    <file path="U:/mathspring/woServer/resources/js/tutorAnswer.js" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1414782044277" ignored="false" />
+    <file path="U:/mathspring/woServer/resources/mathspring.jsp" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1416516769283" ignored="false" />
+    <file path="/shortanswertemplate_edgeActions.js" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1414781489655" ignored="false" />
+    <file path="U:/mathspring/woServer/resources/mathspring/mscontent/html5Probs/problem_853sa/shortanswertemplate_edgeActions.js" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1414781490188" ignored="false" />
+    <file path="U:/mathspring/woServer/src/edu/umass/ckc/wo/tutor/intervSel2/AskEmotionIS.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1416506699811" ignored="false" />
+    <file path="/AskEmotionIS.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1416506699811" ignored="false" />
+    <file path="U:/mathspring/woServer/resources/js/tutorhut.js" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1416857958664" ignored="false" />
+    <file path="U:/mathspring/woServer/src/edu/umass/ckc/wo/interventions/InputResponseIntervention.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1416512803540" ignored="false" />
+    <file path="U:/mathspring/woServer/src/edu/umass/ckc/wo/interventions/AskEmotionRadioIntervention.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1416517332893" ignored="false" />
+    <file path="/AskEmotionRadioIntervention.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1416514273603" ignored="false" />
+    <file path="U:/mathspring/woServer/src/edu/umass/ckc/wo/html/tutor/TutorPage.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1417470783830" ignored="false" />
+    <file path="U:/mathspring/woServer/src/edu/umass/ckc/wo/assistments/AssistmentsHandler.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1416598518543" ignored="false" />
+    <file path="U:/mathspring/woServer/src/edu/umass/ckc/wo/db/DbAssistmentsUsers.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1416597876986" ignored="false" />
+    <file path="/UserRegistrationHandler.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1417469670568" ignored="false" />
+    <file path="U:/mathspring/woServer/src/edu/umass/ckc/wo/handler/UserRegistrationHandler.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1417469676383" ignored="false" />
+    <file path="U:/mathspring/woServer/src/edu/umass/ckc/wo/assistments/AssistmentSessionData.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1416597007803" ignored="false" />
+    <file path="/AssistmentSessionData.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1416596994162" ignored="false" />
+    <file path="U:/mathspring/woServer/src/edu/umass/ckc/wo/woserver/WoTutorServlet.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1416597261659" ignored="false" />
+    <file path="U:/mathspring/woServer/src/edu/umass/ckc/wo/tutor/Settings.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1416939314388" ignored="false" />
+    <file path="U:/mathspring/woServer/src/edu/umass/ckc/wo/tutor/studmod/BaseStudentModel.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1417468940485" ignored="false" />
+    <file path="/TutorPage.java" changelist="a7b1365d-84a5-418c-bceb-eb361c899b2f" time="1417470756701" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="msauthtool" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ProtectionDomain.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://E:/Program Files/Java/jdk1.7.0_21/src.zip!/java/security/ProtectionDomain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="86" column="0" selection-start="2385" selection-end="2385" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProblemEditor.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/gui/ProblemEditor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="665" column="50" selection-start="24971" selection-end="24971" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BackEnd.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/db/BackEnd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="64" column="16" selection-start="1867" selection-end="1867" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WayangDb.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/db/WayangDb.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="78" selection-start="932" selection-end="932" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainFrame.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/gui/MainFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="207" column="23" selection-start="7308" selection-end="7308" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/model/Problem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="157" column="28" selection-start="4112" selection-end="4112" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MockDb.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/db/MockDb.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="113" column="19" selection-start="4123" selection-end="4123" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProblemMgr.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/db/ProblemMgr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="200" column="72" selection-start="8740" selection-end="8740" vertical-scroll-proportion="6.3542075">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProblemEditor.form" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/gui/ProblemEditor.form">
+          <provider selected="true" editor-type-id="ui-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/db/MockDb.java" />
+        <option value="$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/gui/ProblemEditor.form" />
+        <option value="$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/db/ProblemMgr.java" />
+        <option value="$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/gui/ProblemEditor.java" />
+        <option value="$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/model/Problem.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="45" />
+    <option name="y" value="31" />
+    <option name="width" value="1275" />
+    <option name="height" value="1009" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msauthtool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.7 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msauthtool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msauthtool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msauthtool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msauthtool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msauthtool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msauthtool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wpa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msauthtool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msauthtool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wpa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msauthtool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msauthtool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wpa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.MainFrame">
+    <configuration default="false" name="MainFrame" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="edu.umass.ckc.wo.wpa.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="edu.umass.ckc.wo.wpa.gui.MainFrame" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="msauthtool" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.MainFrame" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.MainFrame" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7b1365d-84a5-418c-bceb-eb361c899b2f" name="Default" comment="" />
+      <created>1386006494902</created>
+      <updated>1386006494902</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="45" y="31" width="1275" height="1009" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32811213" sideWeight="0.67176473" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.083264634" sideWeight="0.7109283" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28685713" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32902467" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497939" sideWeight="0.7109283" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2489695" sideWeight="0.67176473" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3282353" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32902467" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/gui/ProblemEditor.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.7.0_21/src.zip!/java/security/ProtectionDomain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/gui/ProblemEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="148" column="42" selection-start="5368" selection-end="5368" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.7.0_21/src.zip!/java/security/ProtectionDomain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/gui/ProblemEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="88" selection-start="5090" selection-end="5090" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.7.0_21/jre/lib/deploy.jar!/com/sun/deploy/util/SessionState.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="162" selection-end="162" vertical-scroll-proportion="0.10278114" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/db/MockDb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="113" column="19" selection-start="4123" selection-end="4123" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/gui/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="207" column="23" selection-start="7308" selection-end="7308" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.7.0_21/src.zip!/javax/swing/JDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="269" column="11" selection-start="9993" selection-end="9993" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/gui/ProblemEditor.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/db/BackEnd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="16" selection-start="1867" selection-end="1867" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.7.0_21/src.zip!/java/security/ProtectionDomain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="0" selection-start="2385" selection-end="2385" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/gui/ProblemEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="665" column="50" selection-start="24971" selection-end="24971" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/model/Problem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="157" column="28" selection-start="4112" selection-end="4112" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/db/WayangDb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="78" selection-start="932" selection-end="932" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/umass/ckc/wo/wpa/db/ProblemMgr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="200" column="72" selection-start="8740" selection-end="8740" vertical-scroll-proportion="6.3542075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>msauthtool:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>msauthtool</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jdom</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

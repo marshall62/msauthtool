@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="msauthtool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/msauthtool_jar</output-path>
+    <root id="root">
+      <element id="archive" name="msauthtool.jar">
+        <element id="module-output" name="msauthtool" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/libs/mysql-connector-java-5.1.6-bin.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/xerces.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/jdom.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/wpa.ini" />
+    </root>
+  </artifact>
+</component>
